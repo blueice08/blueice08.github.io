@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "BilliardWebGL.data.unityweb",
+"asmCodeUrl": "BilliardWebGL.asm.code.unityweb",
+"asmMemoryUrl": "BilliardWebGL.asm.memory.unityweb",
+"asmFrameworkUrl": "BilliardWebGL.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
