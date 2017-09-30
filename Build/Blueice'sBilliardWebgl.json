@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "Blueice'sBilliardWebgl.data.unityweb",
+"asmCodeUrl": "Blueice'sBilliardWebgl.asm.code.unityweb",
+"asmMemoryUrl": "Blueice'sBilliardWebgl.asm.memory.unityweb",
+"asmFrameworkUrl": "Blueice'sBilliardWebgl.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
