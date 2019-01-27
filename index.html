@@ -4,6 +4,15 @@
 <head>
   <meta charset="utf-8">
   <title>Mileitor: The Game</title>
+  
+      <!-- You can use open graph tags to customize link previews.
+    Learn more: https://developers.facebook.com/docs/sharing/webmasters -->
+  <meta property="og:url"           content="https://www.facebook.com/Mileitor-The-Game-370087503816972" />
+  <meta property="og:type"          content="website" />
+  <meta property="og:title"         content="Mileitor: The Game" />
+  <meta property="og:description"   content="" />
+  <meta property="og:image"         content="" />
+  
   <meta name="generator" content="Google Web Designer 5.0.2.0115">
   <style type="text/css" id="gwd-text-style">
     p {
@@ -26,6 +35,25 @@
       margin: 0px;
     }
     body {
+      
+        <!-- Load Facebook SDK for JavaScript -->
+  <div id="fb-root"></div>
+  <script>(function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.0";
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));</script>
+
+  <!-- Your like button code -->
+  <div class="fb-like" 
+    data-href="https://www.facebook.com/Mileitor-The-Game-370087503816972" 
+    data-layout="standard" 
+    data-action="like" 
+    data-show-faces="true">
+  </div>
+      
       background-color: transparent;
       transform: perspective(1400px) matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1);
       transform-style: preserve-3d;
